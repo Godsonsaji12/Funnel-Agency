@@ -121,13 +121,10 @@ alt = Funel logo
 
 Follow us on
 
-href = https://github.com/codewithsadee
 <ion-icon name="logo-github"></ion-icon>
 
-href = https://instagram.com/codewithsadee
 <ion-icon name="logo-instagram"></ion-icon>
 
-href = https://youtube.com/c/codewithsadee
 <ion-icon name="logo-youtube"></ion-icon>
 
 <ion-icon name="logo-facebook"></ion-icon>
@@ -159,6 +156,6 @@ Why
 Products
 Customers
 
-&copy; 2022 @codewithsadee All right reserved
+&copy; 2022 @Godsonsaji All right reserved
 
 <ion-icon name="chevron-up-outline"></ion-icon>
